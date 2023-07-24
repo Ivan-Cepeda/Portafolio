@@ -5,10 +5,10 @@ from PIL import Image
 col1, col2 = st.columns(2)
 with col1:
     st.markdown("![](https://sismos-notificacion.streamlit.app/~/+/media/6bf1256f2a68cbc94c9f9eb731290b831ad2593761fd4594b2cc627e.png)")
+    st.markdown('## Data Analyst')
 with col2:
     st.markdown("# Iván Miguel Cepeda")
-    st.markdown('## Data Analyst')
-    st.markdown("### Portafolio de Proyectos")
+
 
 ###########Body
 st.markdown('Analista de datos, actualmente me desempeño como analista de rendimiento de fútbol para un equipo local, En mi vida he experimentado en múltiples campos del saber, desde las leyes, pasando por ventas, creación de contenido digital y ahora Analista, y en todas esas actividades siempre recurría a buscar datos que me ayudaran a mejorar, por lo que terminó convirtiéndose la ciencia de datos en mi verdadera pasión. Adicionalmente, he practicado artes marciales durante 31 años, y eso me ha dejado con un gran sentido de disciplina, responsabilidad, honor y lealtad.  Todos los días me levanto con un objetivo principal en mente, "Ser la mejor versión de mi"')
