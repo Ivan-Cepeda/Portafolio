@@ -7,6 +7,7 @@ with col1:
     st.markdown("![](https://avatars.githubusercontent.com/u/121826234?v=4)")
 with col2:
     st.markdown("# Iván Miguel Cepeda")
+    st.markdown('##Data Analyst')
     st.markdown("### Portafolio de Proyectos")
 
 ###########Body
