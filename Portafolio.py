@@ -4,7 +4,7 @@ from PIL import Image
 ############HEAD
 col1, col2 = st.columns(2)
 with col1:
-    st.markdown("![](https://avatars.githubusercontent.com/u/121826234?v=4)")
+    st.markdown("![](https://github.com/Ivan-Cepeda/Sismos/blob/main/src/ivan.png)")
 with col2:
     st.markdown("# Iván Miguel Cepeda")
     st.markdown('##Data Analyst')
