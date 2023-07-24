@@ -7,7 +7,7 @@ with col1:
     st.markdown("![](https://sismos-notificacion.streamlit.app/~/+/media/6bf1256f2a68cbc94c9f9eb731290b831ad2593761fd4594b2cc627e.png)")
 with col2:
     st.markdown("# Iván Miguel Cepeda")
-    st.markdown('##Data Analyst')
+    st.markdown('## Data Analyst')
     st.markdown("### Portafolio de Proyectos")
 
 ###########Body
