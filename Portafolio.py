@@ -20,7 +20,7 @@ st.markdown('## Proyectos')
 ##Sistema de notificación sísmica
 st.markdown('## Sistema de Notificación Sísmica')
 st.markdown('En este proyecto se creo una aplicación que permite analizar una base de datos, sobre sismos de tres paises. A su vez se conecta con una aplicación desarrollada en AWS, que extrae en tiempo real cuando un sismo sucede y los clasifica a través de un modelo de machine learning, y envía una notificación a un grupo de telegram')
-st.markdown('Para acceder al repositorio para ampliar mas sobre este proyecto. Ingressa en el [link](https://github.com/Ivan-Cepeda/Sismos)')
+st.markdown('Para acceder al repositorio para ampliar mas sobre este proyecto. Ingresa en el [link](https://github.com/Ivan-Cepeda/Sismos)')
 st.markdown('Para acceder a la app princiapl en tiempo real, ingresar en el [link](https://sismos-notificacion.streamlit.app/)')
 
 ##MOOCS
