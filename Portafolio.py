@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 ############HEAD
-st.markdown('<img src="https://media.licdn.com/dms/image/D4E16AQGRrB159RBbnA/profile-displaybackgroundimage-shrink_350_1400/0/1690208358854?e=1696464000&v=beta&t=27he1p8MoK_7FX1cYWGW1Ln1qzcP88QQDOWUgvFqxvU" alt="drawing" width="200"/>', unsafe_allow_html=True)
+st.markdown('<img src="https://media.licdn.com/dms/image/D4E16AQGRrB159RBbnA/profile-displaybackgroundimage-shrink_350_1400/0/1690208358854?e=1696464000&v=beta&t=27he1p8MoK_7FX1cYWGW1Ln1qzcP88QQDOWUgvFqxvU" alt="drawing" width="700"/>', unsafe_allow_html=True)
 st.markdown("## Iván Miguel Cepeda")
 st.markdown('### Data Analyst')
 
