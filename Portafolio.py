@@ -36,6 +36,6 @@ with open("https://github.com/Ivan-Cepeda/Portafolio/blob/main/Docs/Iv%C3%A1n%20
     btn = st.download_button(
         label="Ivan Cepeda CV",
         data=file,
-        file_name="Data Analyst CA.pdf",
+        file_name="Iván Cepeda, Data Analyst CA.pdf",
         mime="application/pdf"
     )
