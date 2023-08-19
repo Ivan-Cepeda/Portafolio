@@ -32,7 +32,7 @@ st.markdown("Para mayor información sobre este proyecto entre a este [link](htt
 
 st.markdown("Aquí puedes acceder a mi CV")
 
-with open("Docs/Iván-Cepeda-Data-Analyst.pdf", "rb") as file:
+with open("Docs/Iván Cepeda, Data Analyst-BI.pdf", "rb") as file:
     btn = st.download_button(
         label="Ivan Cepeda CV",
         data=file,
