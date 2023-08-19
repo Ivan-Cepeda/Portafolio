@@ -36,6 +36,6 @@ with open("Docs/Iván Cepeda, Data Analyst-BI.pdf", "rb") as file:
     btn = st.download_button(
         label="Ivan Cepeda CV",
         data=file,
-        file_name="Iván-Cepeda-Data-Analyst.pdf",
+        file_name="Iván Cepeda, Data Analyst-BI.pdf",
         mime="application/pdf"
     )
